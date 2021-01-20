@@ -8,7 +8,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-
+    <description>更多精彩关注 "全栈自学社区" 微信公众号</description>
     <artifactId>springcloud-provider-dept</artifactId>
 
     <dependencies>
