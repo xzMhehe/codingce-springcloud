@@ -10,6 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
     <description>更多精彩关注 "全栈自学社区" 微信公众号</description>
     <artifactId>springcloud-provider-dept</artifactId>
+    <name>springcloud-provider-dept-8001</name>
 
     <dependencies>
         <!--actuator完善监控信息-->
