@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>springcloud-consumer-hystrix-dashboard</artifactId>
-    <description>更多精彩关注 "全栈自学社区" 微信公众号</description>
+    <description>更多精彩关注 "后端码匠" 微信公众号</description>
     <dependencies>
         <!--Hystrix依赖-->
         <dependency>
